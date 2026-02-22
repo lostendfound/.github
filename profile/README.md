@@ -1,30 +1,34 @@
 # Hi, I'm Larry
 
-Founder of **lost end found Ltd** — building professional web applications and macOS tools.
+Founder of **Lost End Found Ltd** — building web applications and indie macOS/iOS apps in London.
 
-## What I Do
+## Apps
 
-I develop full-stack web applications and indie macOS apps, focusing on clean design, privacy-first principles, and polished user experiences.
+| App | Platform | Price |
+|-----|----------|-------|
+| [Mail Archive Viewer](https://apps.apple.com/us/app/mail-archive-viewer/id6758789787?mt=12) | macOS | $19.99 |
+| [Design Mirror for Figma](https://apps.apple.com/app/design-mirror-for-figma/id6752376476) | macOS | $9.99 |
+| [DMARC Report Reader](https://apps.apple.com/gb/app/dmarc-report-reader/id6740639913?mt=12) | macOS | $4.99 |
+| [Floating OpenClaw Chat](https://apps.apple.com/gb/app/floating-openclaw-chat/id6758666448?mt=12) | macOS | $4.99 |
+| [Obsidian Floating Notes](https://apps.apple.com/us/app/floating-notes-for-obsidian/id6755842140?mt=12) | macOS | $4.99 |
+| [.msg & .oft reader](https://apps.apple.com/us/app/msg-oft-reader/id6759519717) | macOS | £3.99 |
+| [Did I Have Migraine Today?](https://apps.apple.com/us/app/did-i-have-migraine-today/id6747535173) | iOS · iPad · Watch | $1.99 |
+| [Rollr Dice Roller](https://apps.apple.com/us/app/rollr-dice-roller/id6759270109) | macOS | Free |
+| [Electron Detector](https://apps.apple.com/app/electron-detector/id6740000758) | macOS | Free |
+| [Indie Analytics](https://wordpress.org/plugins/indie-analytics/) | WordPress | Free |
 
-## macOS Apps
-
-| App | Description |
-|-----|-------------|
-| [DMARC Report Reader](https://lostendfound.com/dmarc) | Transform complex DMARC XML reports into clear, actionable insights |
-| [Design Mirror for Figma](https://lostendfound.com/design-mirror-for-figma) | Transparent overlay of Figma designs for pixel-perfect implementation |
-| [Obsidian Floating Notes](https://lostendfound.com/obsidian-floating-notes) | Menu bar app for quick note capture with Obsidian vault integration |
-
-All apps available on the Mac App Store with 100% local processing — no data collection.
+All native apps process data 100% locally — no data collection, no tracking.
 
 ## Tech Stack
 
-**Web**: SvelteKit, Svelte 5, TypeScript, Tailwind CSS
-**Backend**: PostgreSQL, Drizzle ORM, Node.js
-**macOS**: Swift, SwiftUI, CloudKit
-**Infrastructure**: Cloudflare, Docker
+**Web**: SvelteKit, Nuxt, Next.js, TypeScript, Tailwind CSS
+**Backend**: PostgreSQL, Convex, Drizzle ORM, Node.js
+**Apple**: Swift, SwiftUI, SwiftData, CloudKit
+**Desktop**: Tauri, Rust
+**Infrastructure**: Cloudflare, Docker, Dokploy
 
-## Get in Touch
+## Links
 
-- Website: [lostendfound.com](https://lostendfound.com)
-- Book a call: [calendar.lostendfound.com](https://calendar.lostendfound.com)
-- LinkedIn: [Ilarion Ioannidis](https://www.linkedin.com/in/ilarion-ioannidis/)
+- 🌐 [lostendfound.com](https://lostendfound.com)
+- 📅 [Book a call](https://calendar.lostendfound.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ilarion-ioannidis/)
